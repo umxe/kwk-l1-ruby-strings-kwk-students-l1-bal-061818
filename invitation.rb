@@ -1,4 +1,5 @@
 # Code your prompts here!
+puts "Welcome!"
 puts "Guest Name?"
 guest_name = gets.chomp
 puts "Party Name?"
